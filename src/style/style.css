@@ -1,0 +1,182 @@
+body,#root {
+  margin: 0px;
+}
+.container {
+  max-width: 1153px;
+  margin: auto;
+
+}
+.hero{
+  background: url('../images/hero-bg.9c0894d8.png');
+  background-size: cover;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  padding-bottom: 139px;
+}
+.hero .nav-left a{
+  color: white!important;
+  cursor: pointer;
+}
+.nav-cst{
+  max-width: 1250px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 71px;
+ 
+}
+.nav-right{
+  max-width: 353px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.nav-left a{
+  font-size: 32px;
+  line-height: 38px;
+  text-decoration: none;
+  color: white;
+  font-family: ABeeZee;
+
+}
+.nav-left{
+  max-width: 598px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero-inner svg
+{
+  width: 100%;
+  margin: 140px 0px 74px 0px;
+}
+.hero-inner video{
+  max-width: 691px;
+    width: 100%;
+}
+.hero-inner{display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;}
+  .what{
+    background: url('../images/bl2.png');
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+  .nft{
+    width: 100%;
+  }
+  h2{
+    font-family: Patrick Hand SC;
+    
+    font-size: 60px!important;
+    line-height: 81px!important;
+    
+    color: #000000;
+      }
+      h3{
+        font-family: Patrick Hand SC;
+        
+        font-size: 35px!important;
+        line-height: 81px!important;
+        
+        color: #000000;
+          }
+  h1{
+    font-family: Patrick Hand SC;
+    font-size: 80px!important;
+    line-height: 108px!important;
+    color: #000000;
+      }
+      li{
+        list-style: none;
+        
+      }
+       
+  p,ul{
+    font-family: Patrick Hand SC;
+    
+    font-size: 1.875rem!important;
+    line-height: 2.25rem!important;
+
+    color: #000000;
+      }
+      .mt-118px{
+        margin-top: 118px;
+      }
+      .text-box-p{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .text-box{
+        clip-path: polygon(0 6%,100% 0,95% 93%,0 100%);
+     background-color: white;
+    max-width: 714px;
+    padding: 71px 29px 71px 63px;
+    font-family: Patrick Hand SC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 41px;
+    color: #000000;
+      }
+
+      .text-box-1{
+        clip-path:polygon(0 6%,100% 0,95% 93%,0 100%);
+     background-color: white;
+     max-width: 775px;
+     width: 100%;
+    padding: 71px 29px 71px 63px;
+    font-family: Patrick Hand SC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 41px;
+    color: #000000;
+      }
+      .t-right{
+        text-align: right;
+      }
+      .mt-26-op{
+        margin-top: 26%;
+      }
+      .faq
+      {
+        background: url('../images/third-bg.5390a645.png');
+        padding-top: 6rem;
+        padding-bottom: 6rem;
+      }
+      .faq1
+      {
+        background-color: white;
+        padding-top: 6rem;
+        padding-bottom: 6rem;
+      }
+      .ml-8{
+        padding-left: 35px;
+      }
+      .footer{
+       
+        padding: 48px 0px;
+        background: url('../images/third-bg.5390a645.png');
+      }
+      .footer-colr{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .nft-logo{
+        width: 45px;
+        height: 45px;
+      }
+      .emal span{
+        font-family: ABeeZee;
+ 
+font-size: 23px;
+line-height: 27px;
+
+color: #FFFFFF;
+      }
